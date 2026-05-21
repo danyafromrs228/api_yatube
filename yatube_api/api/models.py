@@ -1,1 +1,1 @@
-# from django.db import models 
+# Модели API не требуются
